@@ -8,6 +8,8 @@ For installaiton pip install -r requirements.txt
 In the repository, the DFAN.ipynb file is used to train, where the Attention_mechanism_with_InceptionV3_github_compress_de is used for compress version. 
 **Datasets**
 The datasets can be downloaded from the following links. We follow the training and testing data similar to the previous methods.
-**The proposed DFAN dataset [Click here](https://drive.google.com/file/d/10z998vuTzkNJElZdsSDrbIDpRWJ4aZoo/view?usp=drive_link)**
+**The proposed dataset can be found at 
+
+
 **Contact**
 I would be happy to guide and assist in case of any questions. email me at irshadkhalil@gachon.ac.kr
