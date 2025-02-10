@@ -10,7 +10,7 @@ For installaiton pip install -r requirements.txt
 
 
 **How to Train?**
-In the repository, the DFAN.ipynb file is used to train, where the Attention_mechanism_with_InceptionV3_github_compress_de is used for compress version. 
+In the repository, the proposed_model.ipynb file is used to train, where the Attention_mechanism_with_InceptionV3_github_compress_de is used for compress version. 
 
 
 
